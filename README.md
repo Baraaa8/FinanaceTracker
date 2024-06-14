@@ -36,4 +36,4 @@ Run Main and **enjoy** the app!:)
 - Third table show the top 20 places, where the most money was spent. (Date and interval have no effect on it)
 - Cards in the tables are clickables, so if we want to read the full infos about the entry, we can do it (Infos are shortened with ... end for readability)
 
-![Data from OTP SZEP Card](images/szep.png)
+![Example image](images/example.png)
